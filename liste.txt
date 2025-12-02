@@ -2,8 +2,5 @@ Semmerl
 Müsli
 Joghurt
 Kaffee
-<<<<<<< HEAD
 Hühnerbrust
-=======
 Milch
->>>>>>> dev
