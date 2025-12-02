@@ -8,3 +8,4 @@ Kaffee
 Hühnerbrust
 Milch
 Cola
+Gurke
