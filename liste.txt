@@ -6,3 +6,4 @@ Joghurt
 Kaffee
 Hühnerbrust
 Milch
+Gurke
