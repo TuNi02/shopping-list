@@ -12,3 +12,4 @@ Cola
 Gurke
 Sprite
 Fanta
+Bier (helal)
