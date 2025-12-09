@@ -12,4 +12,3 @@ Cola
 Gurke
 Sprite
 Fanta
-Tomaten
