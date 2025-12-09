@@ -12,4 +12,4 @@ Cola
 Gurke
 Sprite
 Fanta
-Bier (helal)
+TekBier (helal)
